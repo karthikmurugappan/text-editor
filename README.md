@@ -7,6 +7,8 @@ This is a text editor that runs in the browser. The app is a single-page applica
 
 The IndexedDB database is being implemented in this application. The package is called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
+Here is a live link to the application: https://polar-gorge-55343-a9a0367be63d.herokuapp.com/
+
 
 ## User Story
 
